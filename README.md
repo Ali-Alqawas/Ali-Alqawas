@@ -32,86 +32,18 @@
 
 <br/>
 
-<!-- 🛠️ MY DEVELOPMENT ARSENAL - A NEW WAY TO DISPLAY SKILLS -->
+<!-- 🛠️ MY DEVELOPMENT ARSENAL - FIXED & RELIABLE ICONS -->
 <h2 align="center">🛠️ My Development Arsenal</h2>
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#mobile-tech">
-        <img src="https://techstack-generator.vercel.app/api/icon?icon=flutter&theme=light" width="48" height="48" alt="Flutter" />
-      </a>
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <a href="#mobile-tech">
-        <img src="https://techstack-generator.vercel.app/api/icon?icon=react&theme=light" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#mobile-tech">
-        <img src="https://techstack-generator.vercel.app/api/icon?icon=dart&theme=light" width="48" height="48" alt="Dart" />
-      </a>
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-      <a href="#backend-tech">
-        <img src="https://techstack-generator.vercel.app/api/icon?icon=python&theme=light" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#backend-tech">
-        <img src="https://techstack-generator.vercel.app/api/icon?icon=django&theme=light" width="48" height="48" alt="Django" />
-      </a>
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <a href="#frontend-tech">
-        <img src="https://techstack-generator.vercel.app/api/icon?icon=js&theme=light" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#database-tech">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a href="#devops-tech">
-        <img src="https://techstack-generator.vercel.app/api/icon?icon=docker&theme=light" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#backend-tech">
-        <img src="https://techstack-generator.vercel.app/api/icon?icon=cpp&theme=light" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#backend-tech">
-        <img src="https://techstack-generator.vercel.app/api/icon?icon=cs&theme=light" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <a href="#frontend-tech">
-        <img src="https://techstack-generator.vercel.app/api/icon?icon=html&theme=light" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#frontend-tech">
-        <img src="https://techstack-generator.vercel.app/api/icon?icon=css&theme=light" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,react,reactnative,js,html,css" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,cpp,dotnet,postgres,docker" />
+  </a>
+</p>
 
 <br/>
 
@@ -200,7 +132,10 @@
   Feel free to explore my repositories, and let's create something extraordinary together! 🚀
 </p>
 
-<!-- Footer -->
+<!-- ✨ ROBUST & ELEGANT FOOTER ✨ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" alt="Footer"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
+<p align="center">
+  <strong>Crafted with passion by Ali-AlQawas</strong>
 </p>
