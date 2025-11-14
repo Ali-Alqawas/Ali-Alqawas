@@ -1,7 +1,9 @@
-# <div align="center">![Header](https://www.genspark.ai/api/files/s/9OFzbgRQ?cache_control=3600)</div>
+<div align="center">
+  ![Header](https://www.genspark.ai/api/files/s/9OFzbgRQ?cache_control=3600)
+</div>
 
 <div align="center">
-  
+  
 # 👋 Hi, I'm Ali AlQawas
 
 ### 🚀 Full-Stack Developer | Mobile App Architect | AI/ML Enthusiast
@@ -10,195 +12,38 @@
 
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ali-AlQawas&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
+
 ---
 
 ## 🎯 About Me
 
 ```python
 class Developer:
-    def __init__(self):
-        self.name = "Ali AlQawas"
-        self.role = "Full-Stack Developer & Mobile Specialist"
-        self.passion = ["Mobile Development", "AI/ML", "Clean Architecture"]
-        self.current_focus = "Building scalable cross-platform applications"
-        
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+    def __init__(self):
+        self.name = "Ali AlQawas"
+        self.role = "Full-Stack Developer & Mobile Specialist"
+        self.passion = ["Mobile Development", "AI/ML", "Clean Architecture"]
+        self.current_focus = "Building scalable cross-platform applications"
+        self.os_expertise = ["Ubuntu", "Fedora", "Linux"]
+        
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing together 🚀")
 
 ali = Developer()
 ali.say_hi()
-```
+<h2 align="center">🛠️ My Development Arsenal</h2> <p align="center">   <a href="https://skillicons.dev">     <img src="https://skillicons.dev/icons?i=flutter,dart,react,reactnative,js,html,css" />   </a> </p> <p align="center">   <a href="https://skillicons.dev">     <img src="https://skillicons.dev/icons?i=python,django,cpp,dotnet,postgres,docker" />   </a> </p>
 
-> 💡 **Passionate developer** who loves diving deep into diverse technologies with a strong focus on **mobile application development**. I believe in writing clean, maintainable code that solves real-world problems.
+<h2 align="center">🚀 Featured Projects</h2> <table align="center"> <tr> <td width="50%"> <h3 align="center">💬 Flutter Group Chat App</h3> <p align="center">   <a href="https://github.com/Ali-AlQawas/your-flutter-chat-repo" target="_blank">     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" alt="Tech Stack"/>   </a> </p> <p align="center">   A real-time communication powerhouse. Built with Flutter, it features seamless group voice calls and instant messaging, designed for fluid and engaging user interaction. </p> </td> <td width="50%"> <h3 align="center">🔍 Hebrew Language OCR</h3> <p align="center">   <a href="https://github.com/Ali-AlQawas/your-ocr-repo" target="_blank">     <img src="https://skillicons.dev/icons?i=python,tensorflow" alt="Tech Stack"/>   </a> </p> <p align="center">   An advanced OCR model meticulously trained to accurately detect and extract Hebrew text from images, bridging critical language gaps in document processing. </p> </td> </tr> <tr> <td width="50%"> <h3 align="center">🧾 Halal/Haram Product Analyzer</h3> <p align="center">   <a href="https://github.com/Ali-AlQawas/your-halal-analyzer-repo" target="_blank">     <img src="https://skillicons.dev/icons?i=python,flutter,postgres" alt="Tech Stack"/>   </a> </p> <p align="center">   An innovative AI model that classifies products as Halal, Haram, or Mashbooh. It analyzes images, names, or ingredients and pinpoints any non-Halal components. </p> </td> <td width="50%"> <h3 align="center">✨ Your Next Amazing Project</h3> <p align="center">   <em>This could be you!</em> </p> <p align="center">   The next groundbreaking idea is just around the corner. Stay tuned for more innovation and projects that push the boundaries of technology. </p> </td> </tr> </table>
 
----
+<h2 align="center">📊 GitHub Analytics Dashboard</h2>
 
-## 🛠️ Tech Stack
+<p align="center">   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali-AlQawas&theme=radical&hide_border=true" /> </p> <p align="center">   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ali-AlQawas&theme=radical&hide_border=true" />   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ali-AlQawas&theme=radical&hide_border=true" /> </p> <p align="center">   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ali-AlQawas&theme=radical&hide_border=true" />   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ali-AlQawas&theme=radical&hide_border=true" /> </p>
 
-<div align="center">
+<p align="center">   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-AlQawas&theme=react-dark&hide_border=true&area=true" width="100%"/> </p>
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<h2 align="center">🤝 Let's Connect and Build the Future</h2> <p align="center">   <em>I'm always open to discussing new ideas, collaborations, or opportunities to be part of a visionary project.</em> </p> <p align="center">   Feel free to explore my repositories, and let's create something extraordinary together! 🚀 </p>
 
-### 🎨 Frameworks & Libraries
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### 🗄️ Database & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 📱 Real-Time Voice Chat & Messaging App
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
-
-> 🎙️ **Enterprise-grade mobile application** featuring group voice chat and instant messaging capabilities
-> - Real-time audio streaming with low latency
-> - Scalable messaging architecture
-> - Cross-platform support (iOS & Android)
-> - Beautiful, intuitive UI/UX design
-
----
-
-### 🔤 Hebrew OCR Recognition System
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![AI](https://img.shields.io/badge/AI-Machine_Learning-FF6F00?style=flat-square)](https://github.com)
-
-> 🧠 **Advanced optical character recognition** model specialized in Hebrew text detection and extraction
-> - Custom-trained deep learning model
-> - High accuracy Hebrew text recognition
-> - Image preprocessing and text localization
-> - Supports various document formats
-
----
-
-### ✅ Halal Product Analyzer (AI-Powered)
-[![AI](https://img.shields.io/badge/AI-Computer_Vision-FF6F00?style=flat-square)](https://github.com)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-
-> 🍽️ **Intelligent product classification system** that determines if products are Halal, Haram, or Questionable
-> - Multi-modal analysis: Image recognition, text parsing, ingredient analysis
-> - Identifies specific prohibited ingredients
-> - Real-time product scanning
-> - Comprehensive ingredient database
-> - Helps consumers make informed decisions
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali-AlQawas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-AlQawas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ali-AlQawas&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
-
-</div>
-
----
-
-## 🎓 Professional Skills
-
-<div align="center">
-
-| 📱 Mobile Development | 🌐 Web Development | 🤖 AI/ML |
-|:---:|:---:|:---:|
-| Cross-platform apps | Full-stack solutions | Computer Vision |
-| Native performance | RESTful APIs | NLP & OCR |
-| State management | Real-time systems | Model deployment |
-
-</div>
-
----
-
-## 🔥 What I'm Currently Working On
-
-```dart
-// Building the future, one commit at a time
-Future<Success> buildAmazingApps() async {
-  await learnNewTechnologies();
-  await contributeToOpenSource();
-  await helpDevelopers();
-  return Success(message: "Making an impact! 🚀");
-}
-```
-
-- 🔭 Exploring advanced **AI integration** in mobile apps
-- 🌱 Deepening knowledge in **Flutter architecture patterns**
-- 👯 Looking to collaborate on **open-source mobile projects**
-- 💬 Ask me about **Flutter, React Native, Django, or AI/ML**
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-AlQawas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-alqawas)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Developer Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 📈 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ali-AlQawas&color=00D9FF&style=for-the-badge&label=Profile+Views)
-
----
-
-### ⚡ Fun Fact
-> When I'm not coding, I'm probably thinking about coding! 💻☕
-
----
-
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-</div>
-
----
-
-## 📜 License
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
----
-
-<div align="center">
-
-**Made with ❤️ and lots of ☕**
-
-⭐️ From [Ali-AlQawas](https://github.com/Ali-AlQawas)
-
-</div>
+<p align="center">   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </p> <p align="center">   <strong>Crafted with passion by Ali-AlQawas</strong> </p>
