@@ -1,9 +1,5 @@
 ![Ali-AlQawas Banner](https://www.genspark.ai/api/files/s/5XV5euxh)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/React.gif" width="100" alt="Animated React Logo"/>
-</div>
-
 <div>
   <img align="right" width="40%" src="https://media.giphy.com/media/qgQUggACjCkWVPFtwJ/giphy.gif">
 </div>
