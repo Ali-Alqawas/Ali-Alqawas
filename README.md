@@ -1,7 +1,7 @@
 ![Ali-AlQawas Banner](https://www.genspark.ai/api/files/s/5XV5euxh)
 
 <div align="center">
-  <img src="https://www.genspark.ai/api/files/s/PTziULKO" width="100" alt="React Logo"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/React.gif" width="100" alt="Animated React Logo"/>
 </div>
 
 <div>
