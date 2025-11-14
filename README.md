@@ -1,4 +1,4 @@
-![Ali-AlQawas Banner Image](./banner.png)
+![Ali-AlQawas Banner Image](banner.jpg)
 
 <div>
   <img align="right" width="40%" src="https://media.giphy.com/media/qgQUggACjCkWVPFtwJ/giphy.gif">
