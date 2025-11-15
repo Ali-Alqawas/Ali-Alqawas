@@ -1,9 +1,5 @@
 ![Ali-AlQawas Banner](https://www.genspark.ai/api/files/s/5XV5euxh)
 
-<div>
-  <img align="right" width="40%" src="https://media.giphy.com/media/qgQUggACjCkWVPFtwJ/giphy.gif">
-</div>
-
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> ɪ'ᴍ ALI-ALQAWAS!
 *Passionate Developer with a focus on Mobile Applications & AI/ML*
 <br />
